@@ -33,6 +33,8 @@ _turtle = turtle1.get_turtle() # provides access to the actual Python Turtle obj
 _turtle.is_visible() # returns a boolean indicating whether the turtle is visible on the screen or not
 ```
 
+2. "Fill" Parameter: For each of the built-in utility methods to the class that draw shapes, there is a default boolean argument that will fill in the shape with the specified color of the turtle. If you want to have a shape drawn without being filled in, you must pass in the keyword argument ```fill=False```.
+
 
 **Step 3: Submission**
 
