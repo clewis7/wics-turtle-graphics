@@ -11,9 +11,9 @@ Come up with a unique repo name, and decide whether you would like the repo to b
 
 Now you have your own repo to develop your turtle graphic from. Additionally, having your own repo allows you to manipulate any of the code that we have provided without consequence should you want to experiment further with turtle graphics outside of this meeting. 
 
-Now that you have your own repo. You are going to clone your newly created repo locally so that you can draw your graphic. 
+Now that you have your own repo, you are going to clone your newly created repo locally so that you can draw your graphic. 
 
-Click the green "Code" button in the top right corner of your repo. Make sure you have the "HTTPS" tab selected and copy that link to your       clipboard. Next, clone this repo into your preferred IDE (vscode, IntelliJ, PyCharm, etc.). If you need any help with this part, please just let us know!
+Click the green "Code" button in the top right corner of your repo. Make sure you have the "HTTPS" tab selected and copy that link to your clipboard. Next, clone this repo into your preferred IDE (vscode, IntelliJ, PyCharm, etc.). If you need any help with this part, please just let us know!
 
 **Step 2: Graphic Design**
 
