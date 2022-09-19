@@ -33,13 +33,12 @@ _turtle = turtle1.get_turtle() # provides access to the actual Python Turtle obj
 _turtle.is_visible() # returns a boolean indicating whether the turtle is visible on the screen or not
 ```
 
-2. 
 
 **Step 3: Submission**
 
 In order for us to easily assemble all of our graphics together. We have provided a Google Form for you to submit a screenshot of your graphic. There are ways to save your image via code commands, however for simplicity and ease it is better for us to have you take a screenshot and submit. 
 
-Google Form Link:
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSc0jEieVtCmur00sKnM2FKecqBG-oCEXmflcBphvoSKdhF4-A/viewform
 
 ## Thank You!
 
